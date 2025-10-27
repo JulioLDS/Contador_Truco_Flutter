@@ -1,7 +1,5 @@
 # 🎲 Contador de Truco
 
-['images/desktop.png', 'images/mobile.png']
-
 Um contador de pontos para jogos de truco desenvolvido com Flutter Web, oferecendo uma interface responsiva tanto para desktop quanto para dispositivos móveis. O projeto implementa conceitos de Programação Orientada a Objetos e widgets personalizados para melhor manutenibilidade do código.
 
 ---
