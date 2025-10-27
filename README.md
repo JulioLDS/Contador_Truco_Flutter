@@ -24,13 +24,13 @@ Um contador de pontos para jogos de truco desenvolvido com Flutter Web, oferecen
 
 ## 🖥️ Versão Desktop
 <div align="center">
+  <img src="repo/images/desktop.png" alt="Versão Desktop" width="720"/>
 </div>
-![Screenshot](images/desktop.png)
 
 ## 📱 Versão Mobile
 <div align="center">
+  <img src="repo/images/mobile.png" alt="Versão Mobile" width="360"/>
 </div>
-![Screenshot](images/mobile.png)
 
 ---
 
