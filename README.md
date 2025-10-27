@@ -29,7 +29,7 @@ Um contador de pontos para jogos de truco desenvolvido com Flutter Web, oferecen
 
 ## 📱 Versão Mobile
 <div align="center">
-  <img src="images/mobile.png" alt="Versão Mobile" width="360"/>
+  <img src="images/mobile.png" alt="Versão Mobile" width="760"/>
 </div>
 
 ---
